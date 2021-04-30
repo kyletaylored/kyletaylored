@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=kyletaylored&show_icons=true&theme=synthwave">
 
 ### Hi there 👋  I'm Kyle
