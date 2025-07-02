@@ -2,8 +2,8 @@
 
 ### Hi there 👋  I'm Kyle
 
-[![https://twitter.com/kyletaylored](https://img.shields.io/badge/follow%20me-twitter-green?style=for-the-badge)](https://twitter.com/kyletaylored)
-[![https://kyletaylor.dev](https://img.shields.io/badge/visit-website-orange?style=for-the-badge)](https://kyletaylor.dev)
+[![https://instagram.com/kyle.of.none](https://img.shields.io/badge/follow%20me-instagram-green?style=for-the-badge)](https://instagram.com/kyle.of.none)
+[![https://kyletaylored.com](https://img.shields.io/badge/visit-website-orange?style=for-the-badge)](https://kyletaylored.com)
 [![https://github.com/sponsors/kyletaylored](https://img.shields.io/badge/sponsor-me-blue?style=for-the-badge)](https://github.com/sponsors/kyletaylored)
 [![Email](https://img.shields.io/static/v1?label=email&message=me&color=red&logo=gmail&style=for-the-badge&logoColor=white)](mailto:hey@kyletaylored.com)
 
